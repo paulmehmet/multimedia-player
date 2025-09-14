@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+
+<body>
+<h1>Learning Value </h1>
+<section><h2>Beautiful flower</h2>
+<audio controls="1/11" aria-label="beautiful flower" > <Source src="https://www.vecteezy.com/free-videos/audio-clip" type="flower video" > </audio>
+</section>
+
+<section>
+  <h2>On the Mountain</h2>
+  <video controls="1/11" width="265" > <source src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDuPpItW9MtP04Gfn8yYMZtAW2uauBx7RN21E-IltlJU3&s"  type="Tutorial">
+</source>
+<track src="vidi" kind="Tutorial" srclang="portuguese" label="portugese"></track>
+  </video>
+
+</section>
+
+<section>
+  <h2>in the valley</h2>
+  <p>Take part in a violent struggle involving the exchange of physical blows or the use of weapons.</p>
+
+</section>
+
+</body>
+
+</html>
+
+** end of index.html **
+
